@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting&hellip;</title>
+    <meta http-equiv="refresh" content="0; url={{ page.goto }}">
+    <meta name="robots" content="noindex">
+    <link rel="canonical" href="{{page.goto}}"/>
+</head>
+<body>
+<h1>Переход&hellip;</h1>
+<a href="{{ page.goto }}">Перейти по ссылке</a>.
+<script>location="{{ page.goto }}"</script>
+</body>
+</html>
