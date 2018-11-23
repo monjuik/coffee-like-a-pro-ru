@@ -5,8 +5,8 @@ permalink: /contacts/
 published: true
 ---
 
-Адрес: Россия, Санкт-Петербург, ул. Омская.
+Адрес: Россия, Санкт-Петербург, ул. Торжковская.
 
-Электронный адрес: [promonet@pro-monetki.ru](mailto:promonet@pro-monetki.ru).
+Электронный адрес: [info@coffee-like-a-pro.ru](mailto:info@coffee-like-a-pro.ru).
 
 Пожалуйста, напишите нам любые вопросы, предложения и сообщения об ошибках.
