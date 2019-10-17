@@ -2,19 +2,34 @@
 layout: default
 published: true
 ---
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Читать дальше…</a>
-    </article>
-    <br> <br>
-  {% endfor %}
+<div class="content-box-green">
+  <strong>Статья месяца</strong>
+  <br />
+  <a href="{{ site.url }}/brew/Vse-o-kofeinoy-penke.html">О крема и том, как её сделать лучше</a>.
 </div>
+
+
+<h2> Кофемолки, кофеварки и другие полезные приспособления </h2>
+<ul>
+  {% assign sorted_team = site.categories.Hardware | sort:'title' %}
+  {% for member in sorted_team %}
+  <li><a href="{{ site.baseurl }}{{ member.url }}">{{ member.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2> Как готовить вкусный кофе</h2>
+<ul>
+  {% assign sorted_team = site.categories.Brew | sort:'title' %}
+  {% for member in sorted_team %}
+  <li><a href="{{ site.baseurl }}{{ member.url }}">{{ member.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2> Про кофе и ингридиенты </h2>
+<ul>
+  {% assign sorted_team = site.categories.Coffee | sort:'title' %}
+  {% for member in sorted_team %}
+  <li><a href="{{ site.baseurl }}{{ member.url }}">{{ member.title }}</a></li>
+  {% endfor %}
+</ul>
+
