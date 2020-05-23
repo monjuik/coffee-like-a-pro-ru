@@ -27,6 +27,7 @@ categories: Hardware
 
 Модель | Особенности | Рейтинг | Ссылка
 ------------ | ------------- |------|---
+De'Longhi Dedica KG520.M | мощная, порционный помол | ★★★★★ |  <a href="{{ site.url }}/delonghi-kg-520/">Купить</a>
 Rommelsbacher EKM 300 | мощная, порционный помол | ★★★★★ |  <a href="{{ site.url }}/rommelsbacher-EKM300/">Купить</a>
 CASO Barista Flavour | легкая, нешумная, порционный помол | ★★★★★ | <a href="{{ site.url }}/caso-barista-flavour/">Купить</a>
 
