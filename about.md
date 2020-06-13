@@ -54,8 +54,8 @@ published: true
 ### Кофе
 
 Мы заказываем свежеобжаренный Tasty Coffee. Больше всего нравятся два сорта:
-- [Верона](https://ad.admitad.com/g/p7ivmje1cj119ca179fc9ebcee8c5e/?ulp=https%3A%2F%2Fshop.tastycoffee.ru%2Fcoffee%2Fespresso-verona),
-- [Бразилия Можиана](https://ad.admitad.com/g/p7ivmje1cj119ca179fc9ebcee8c5e/?ulp=https%3A%2F%2Fshop.tastycoffee.ru%2Fcoffee%2Fbrazil-mogiana).
+- <a href="{{ site.url }}/tasty-coffee-verona/">Верона</a>,
+- <a href="{{ site.url }}/tasty-coffee-mogiana/">Бразилия Можиана</a>.
 
 ### Напитки 
 
