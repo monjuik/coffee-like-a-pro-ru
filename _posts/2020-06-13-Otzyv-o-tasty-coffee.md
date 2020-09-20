@@ -58,7 +58,8 @@ last_modified_at: 2020-06-14
   ![Эспрессо из зёрен Верона](../../../images/tasty-coffee-verona-espresso.jpg)
   ![Кофе кортадо из зёрен Верона](../../../images/tasty-coffee-verona-cortado.jpg)
 {% endslider %}
-</div>>
+</div>
+
 Особенности:
 
 - средняя оценка — 4,6,
