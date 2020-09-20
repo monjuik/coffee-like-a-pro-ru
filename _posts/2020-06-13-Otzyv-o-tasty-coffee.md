@@ -50,7 +50,15 @@ last_modified_at: 2020-06-14
 ### Отзыв о Tasty Coffee Верона
 
 Кофе отлично подходит для любителей кофе с молоком. Кислинка минимальная.
-
+<div style="max-height: 533px;max-width:400px">
+{% slider  bullets captions %}
+  ![Упаковка Верона 250 г.](../../../images/tasty-coffee-verona-package.jpg)
+  ![Зёрна Верона](../../../images/tasty-coffee-verona-beans.jpg)
+  ![Молотый кофе Верона](../../../images/tasty-coffee-verona-ground-coffee.jpg)
+  ![Эспрессо из зёрен Верона](../../../images/tasty-coffee-verona-espresso.jpg)
+  ![Кофе кортадо из зёрен Верона](../../../images/tasty-coffee-verona-cortado.jpg)
+{% endslider %}
+</div>>
 Особенности:
 
 - средняя оценка — 4,6,
