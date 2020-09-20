@@ -20,6 +20,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' }}">
+    {% if page.iis_slider_active %}
+    <!-- Slider CSS -->
+    <link rel="stylesheet" href="{{ "/assets/bower/ideal-image-slider.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/bower/themes/default/default.css" | relative_url }}">
+    {% endif %}
     <meta name="yandex-verification" content="15d3723d8a8c8a2a"/>
     <meta name="google-site-verification" content="qmr10rpd_vtBI8qHVM1cu4Ol8C2HxFk95QnmzAE2x58"/>
 </head>
@@ -61,6 +66,23 @@
 
 
 </script>
+{% endif %}
+
+{% if page.iis_slider_active %}
+<!-- Slider -->
+<script src="{{ "/assets/bower/ideal-image-slider.min.js" | relative_url }}"></script>
+<script src="{{ "/assets/bower/extensions/bullet-nav/iis-bullet-nav.js" | relative_url }}"></script>
+<script src="{{ "/assets/bower/extensions/captions/iis-captions.js" | relative_url }}"></script>
+<!-- Sliders on pages -->
+{% for script in page.iis_slider_scripts %}
+  {{ script }}
+{% endfor %}
+<!-- Sliders on indexes -->
+{% for post in paginator.posts %}
+  {% for script in post.iis_slider_scripts %}
+    {{ script }}
+  {% endfor %}
+{% endfor %}
 {% endif %}
 </body>
 </html>
