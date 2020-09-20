@@ -45,3 +45,4 @@ jekyll-minifier:
   simple_boolean_attributes: false  # Default: false
   compress_js_templates: false      # Default: false
 
+iis_slider_array: []
