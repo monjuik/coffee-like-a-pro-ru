@@ -3,7 +3,7 @@ layout: post
 title: Как сварить вкусный кофе в капельной кофеварке
 published: true
 toc: true
-last_modified_at: 2022-07-17
+last_modified_at: 2023-03-17
 categories: Brew
 ---
 В статье я подробно описал, как приготовить вкусный кофе в кофеварке капельного типа.
