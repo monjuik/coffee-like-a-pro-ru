@@ -1,0 +1,21 @@
+<!-- Yandex.Market Widget -->
+<script type="text/javascript">
+    (function (w) {
+        function start() {
+            w.removeEventListener("YaMarketAffiliateLoad", start);
+            w.YaMarketAffiliate.createWidget({type:"sku",
+	containerId:"marketWidgetItalcoInduction6",
+	fallback:true,
+	params:{clid:2364841,
+		vid:"30",
+		searchModelIds:[334418802 ],
+		themeId:1 } });
+        }
+        w.YaMarketAffiliate
+            ? start()
+            : w.addEventListener("YaMarketAffiliateLoad", start);
+    })(window);
+</script>
+<!-- End Yandex.Market Widget -->
+
+<div id="marketWidgetItalcoInduction6"></div>
