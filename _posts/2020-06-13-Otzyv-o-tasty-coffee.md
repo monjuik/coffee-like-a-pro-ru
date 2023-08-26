@@ -4,7 +4,7 @@ title: Отзыв о Tasty coffee
 published: true
 toc: true
 categories: Coffee
-last_modified_at: 2022-01-02
+last_modified_at: 2023-08-26
 ---
 
 Обзор трёх самых вкусных смесей для эспрессо Tasty Coffee. В конце статьи — бонус!
@@ -18,9 +18,9 @@ last_modified_at: 2022-01-02
 
 Сорт | Особенности | Рейтинг | Ссылка
 ------------ | ------------- |------|---
-Верона | мягкий, с лёгким послевкусием | ★★★★★ | <a href="{{ site.url }}/tasty-coffee-verona/">Купить</a>
-Бразилия Можиана | приятный вкус, крепковатый, доступная цена | ★★★★★ | <a href="{{ site.url }}/tasty-coffee-mogiana/">Купить</a>
-Гурме | мягкий и ароматный | ★★★★✩ | <a href="{{ site.url }}/tasty-coffee-gourmet/">Купить</a>
+Верона | мягкий, с лёгким послевкусием | ★★★★★ | <a href="{{ site.url }}/tasty-coffee-verona/?erid=LatgBkMrh">Купить</a>
+Бразилия Можиана | приятный вкус, крепковатый, доступная цена | ★★★★★ | <a href="{{ site.url }}/tasty-coffee-mogiana/?erid=LatgBkMrh">Купить</a>
+Гурме | мягкий и ароматный | ★★★★✩ | <a href="{{ site.url }}/tasty-coffee-gourmet/?erid=LatgBkMrh">Купить</a>
 
 #### Свежесть
 
@@ -78,7 +78,7 @@ last_modified_at: 2022-01-02
 
 Что нам больше всего нравится: мягкий вкус, приятное послевкусие.
 
-**<a href="{{ site.url }}/tasty-coffee-verona/">Узнать цену</a>**.
+**<a href="{{ site.url }}/tasty-coffee-verona/?erid=LatgBkMrh">Узнать цену</a>**.
 
 ### Tasty Coffee Бразилия Можиана
 
@@ -104,7 +104,7 @@ last_modified_at: 2022-01-02
 
 Что нам больше всего нравится: приятный вкус, в меру крепкий.
 
-**<a href="{{ site.url }}/tasty-coffee-mogiana/">Узнать цену</a>**.
+**<a href="{{ site.url }}/tasty-coffee-mogiana/?erid=LatgBkMrh">Узнать цену</a>**.
 
 ### Тейсти Кофе Гурме
 
@@ -128,7 +128,7 @@ last_modified_at: 2022-01-02
 
 Что нам больше всего нравится: мягкий и ароматный.
 
-**<a href="{{ site.url }}/tasty-coffee-gourmet/">Узнать цену</a>**.
+**<a href="{{ site.url }}/tasty-coffee-gourmet/?erid=LatgBkMrh">Узнать цену</a>**.
 
 ### Сравнение цен на Tasty coffee в зёрнах
 

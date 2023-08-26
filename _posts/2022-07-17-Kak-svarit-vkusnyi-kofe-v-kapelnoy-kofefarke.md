@@ -3,7 +3,7 @@ layout: post
 title: Как сварить вкусный кофе в капельной кофеварке
 published: true
 toc: true
-last_modified_at: 2023-03-17
+last_modified_at: 2023-08-26
 categories: Brew
 ---
 В статье я подробно описал, как приготовить вкусный кофе в кофеварке капельного типа.
@@ -45,9 +45,9 @@ categories: Brew
 
 Я рекомендую использовать электронные весы, чтобы получить предсказуемый результат.
 Сейчас доступны интересные и недорогие варианты, например:
-- [Kitfort КТ-803](https://ya.cc/m/3WKTq9),
-- [Scarlett SC-KS57P99](https://ya.cc/m/3WKTrn),
-- [Redmond RS-M723](https://ya.cc/m/3WKTtv).
+- [Kitfort КТ-803](https://ya.cc/m/eNpJOwG?erid=4CQwVszL78EMgD7wXuf),
+- [Scarlett SC-KS57P68](https://ya.cc/m/DiU2Jmi?erid=4CQwVszL78EMgD7wXyy),
+- [Redmond RS-M723](https://ya.cc/m/K18oIH5?erid=4CQwVszL78EMgD7wXz2).
 
 ### Сколько ложек кофе класть в кофеварку капельного типа?
 

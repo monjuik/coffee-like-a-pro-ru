@@ -3,6 +3,7 @@ layout: post
 title: Лучший кофе в зёрнах
 published: true
 toc: true
+last_modified_at: 2023-08-26
 categories: Coffee
 ---
 
@@ -16,9 +17,9 @@ categories: Coffee
 
 Сорт | Особенности | Рейтинг | Ссылка
 ------------ | ------------- |------|---
-Lavazza Qualita Oro | Лучшее сочетание цены и качества | ★★★★★ | <a href="{{ site.url }}/lavazza-qualita-oro-500/">Купить</a>
-Lavazza Qualita Rossa | Насыщенный вкус, отличная пенка | ★★★★★ | <a href="{{ site.url }}/lavazza-qualita-rossa-500/">Купить</a>
-Egoiste Noir | Очень вкусный, более доступный | ★★★★✩ | <a href="{{ site.url }}/egoiste-noir-500/">Купить</a>
+Lavazza Qualita Oro | Лучшее сочетание цены и качества | ★★★★★ | <a href="{{ site.url }}/lavazza-qualita-oro-500/?erid=4CQwVszL78EMgDAuAgk">Купить</a>
+Lavazza Qualita Rossa | Насыщенный вкус, отличная пенка | ★★★★★ | <a href="{{ site.url }}/lavazza-qualita-rossa-500/?erid=4CQwVszL78EMgD7wYDE">Купить</a>
+Egoiste Noir | Очень вкусный, более доступный | ★★★★✩ | <a href="{{ site.url }}/egoiste-noir-500/?erid=4CQwVszL78EMgDAuAgk">Купить</a>
 
 
 ### Lavazza Qualita Oro
@@ -47,7 +48,7 @@ Egoiste Noir | Очень вкусный, более доступный | ★★
 
 Что нам больше всего нравится: сочетание цены и качества, стабильность вкуса от пачки к пачке.
 
-**<a href="{{ site.url }}/lavazza-qualita-oro-500/">Узнать цену</a>**.
+**<a href="{{ site.url }}/lavazza-qualita-oro-500/?erid=4CQwVszL78EMgDAuAgk">Узнать цену</a>**.
 
 ### Lavazza Qualita Rossa
 
@@ -74,7 +75,7 @@ Egoiste Noir | Очень вкусный, более доступный | ★★
 
 Что нам больше всего нравится: крепкий и насыщенный вкус, а кофеина больше, чем в Qualita Oro.
 
-**<a href="{{ site.url }}/lavazza-qualita-rossa-500/">Узнать цену</a>**.
+**<a href="{{ site.url }}/lavazza-qualita-rossa-500/erid=4CQwVszL78EMgD7wYDE">Узнать цену</a>**.
 
 ### Egoiste Noir
 
@@ -104,7 +105,7 @@ Egoiste Noir | Очень вкусный, более доступный | ★★
 
 Что нам больше всего нравится: приятный кофе, более доступный, чем Лавацца.
 
-**<a href="{{ site.url }}/egoiste-noir-500/">Узнать цену</a>**.
+**<a href="{{ site.url }}/egoiste-noir-500/?erid=4CQwVszL78EMgDAuAgk">Узнать цену</a>**.
 
 ### Сравнение цен на кофе в зёрнах
 
