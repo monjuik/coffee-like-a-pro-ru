@@ -15,12 +15,11 @@ categories: Coffee
 
 ### Быстрое сравнение
 
-Сорт | Особенности | Рейтинг | Ссылка
------------- | ------------- |------|---
-Lavazza Qualita Oro | Лучшее сочетание цены и качества | ★★★★★ | <a href="{{ site.url }}/lavazza-qualita-oro-500/?erid=4CQwVszL78EMgDAuAgk">Купить</a>
-Lavazza Qualita Rossa | Насыщенный вкус, отличная пенка | ★★★★★ | <a href="{{ site.url }}/lavazza-qualita-rossa-500/?erid=4CQwVszL78EMgD7wYDE">Купить</a>
-Egoiste Noir | Очень вкусный, более доступный | ★★★★✩ | <a href="{{ site.url }}/egoiste-noir-500/?erid=4CQwVszL78EMgDAuAgk">Купить</a>
-
+| Сорт                  | Особенности                      | Рейтинг | Ссылка                                                                                  |
+|-----------------------|----------------------------------|---------|-----------------------------------------------------------------------------------------|
+| Lavazza Qualita Oro   | Лучшее сочетание цены и качества | ★★★★★   | <a href="{{ site.url }}/lavazza-qualita-oro-500/?erid=4CQwVszL78EMgDAuAgk">Купить</a>   |
+| Lavazza Qualita Rossa | Насыщенный вкус, отличная пенка  | ★★★★★   | <a href="{{ site.url }}/lavazza-qualita-rossa-500/?erid=4CQwVszL78EMgD7wYDE">Купить</a> |
+| Egoiste Noir          | Очень вкусный, более доступный   | ★★★★✩   | <a href="{{ site.url }}/egoiste-noir-500/?erid=4CQwVszL78EMgDAuAgk">Купить</a>          |
 
 ### Lavazza Qualita Oro
 
