@@ -75,7 +75,7 @@ Egoiste Noir | Очень вкусный, более доступный | ★★
 
 Что нам больше всего нравится: крепкий и насыщенный вкус, а кофеина больше, чем в Qualita Oro.
 
-**<a href="{{ site.url }}/lavazza-qualita-rossa-500/erid=4CQwVszL78EMgD7wYDE">Узнать цену</a>**.
+**<a href="{{ site.url }}/lavazza-qualita-rossa-500/?erid=4CQwVszL78EMgD7wYDE">Узнать цену</a>**.
 
 ### Egoiste Noir
 
