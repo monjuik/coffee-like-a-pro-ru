@@ -15,7 +15,7 @@ categories: Coffee
 ### Цены на самый доступный кофе
 Для этого графика у каждой компании я взял цену самого бюджетного кофе.
 
-![Сравнение низких цен](../../../images/fresh-coffee-min.png)
+![Сравнение низких цен](/images/fresh-coffee-min.png)
 
 Самый доступный кофе у **Just Coffee**, **Tasty Coffee Roasters** и **Biji Coffee**. Кстати, **Lavazza Oro** дороже. 
 
@@ -30,7 +30,7 @@ categories: Coffee
 ### Средние цены
 Для этого графика я взял средние цены, то есть `(min + max) / 2`.
 
-![Сравнение средних цен](../../../images/fresh-coffee-avg.png)
+![Сравнение средних цен](/images/fresh-coffee-avg.png)
 
 Лидер — **Tasty Coffee Roasters**. Средняя цена у большинства других компаний выше почти в два раза.
 

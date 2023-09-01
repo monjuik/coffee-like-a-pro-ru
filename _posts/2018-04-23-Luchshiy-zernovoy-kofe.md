@@ -78,7 +78,7 @@ categories: Coffee
 
 ### Egoiste Noir
 
-![Кофе Эгоист Нуар](../../../images/egoist-noir.jpg)
+![Кофе Эгоист Нуар](/images/egoist-noir.jpg)
 
 Особенности:
 
@@ -96,7 +96,7 @@ categories: Coffee
 – интенсивность: 5/10.
 ```
 
-![Кофе Эгоист Нуар](../../../images/egoist-noir-beans-and-pantone.jpg)
+![Кофе Эгоист Нуар](/images/egoist-noir-beans-and-pantone.jpg)
 
 Варианты упаковки: 250г, 500г, 1 килограмм.
 
@@ -110,7 +110,7 @@ categories: Coffee
 
 Для построения графика я взял цены на пачки в 500 г с одного известного интернет-магазина.
 
-![Сравнение цен](../../../images/coffee-prices.png)
+![Сравнение цен](/images/coffee-prices.png)
 
 Как видно из гистограммы, Lavazza Qualita Oro самая дорогая. Росса чуть доступнее, а Эгоист на четверть дешевле.
 

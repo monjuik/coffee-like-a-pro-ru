@@ -36,7 +36,7 @@ last_modified_at: 2023-08-26
 
 #### Доставка
 
-![Коробка со свежим Тейсти кофе](../../../images/tasty-coffee-box.jpg)
+![Коробка со свежим Тейсти кофе](/images/tasty-coffee-box.jpg)
 
 Производство Tasty Coffee находится в Ижевске. До Санкт-Петербурга заказ идёт СДЭКом несколько дней. Последний заказ оформляли в период пандемии, кофе получили на пятый день.
 В штатном режиме бывало и быстрее.
@@ -52,11 +52,11 @@ last_modified_at: 2023-08-26
 Кофе отлично подходит для любителей кофе с молоком. Кислинка минимальная.
 <div style="max-height: 533px;max-width:400px">
 {% slider  bullets captions %}
-  ![Упаковка Верона 250 г.](../../../images/tasty-coffee-verona-package.jpg)
-  ![Зёрна Верона](../../../images/tasty-coffee-verona-beans.jpg)
-  ![Молотый кофе Верона](../../../images/tasty-coffee-verona-ground-coffee.jpg)
-  ![Эспрессо из зёрен Верона](../../../images/tasty-coffee-verona-espresso.jpg)
-  ![Кофе кортадо из зёрен Верона](../../../images/tasty-coffee-verona-cortado.jpg)
+  ![Упаковка Верона 250 г.](/images/tasty-coffee-verona-package.jpg)
+  ![Зёрна Верона](/images/tasty-coffee-verona-beans.jpg)
+  ![Молотый кофе Верона](/images/tasty-coffee-verona-ground-coffee.jpg)
+  ![Эспрессо из зёрен Верона](/images/tasty-coffee-verona-espresso.jpg)
+  ![Кофе кортадо из зёрен Верона](/images/tasty-coffee-verona-cortado.jpg)
 {% endslider %}
 </div>
 
@@ -134,7 +134,7 @@ last_modified_at: 2023-08-26
 
 Для построения графика я взял цены на пакеты в 250 г в зёрнах.
 
-![Сравнение цен](../../../images/tasty-coffee-prices.png)
+![Сравнение цен](/images/tasty-coffee-prices.png)
 
 Как видно из гистограммы, Можиана на четверть доступнее Вероны и Гурме.
 
