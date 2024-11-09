@@ -16,11 +16,11 @@ last_modified_at: 2023-08-26
 
 ### Быстрое сравнение
 
-Сорт | Особенности | Рейтинг | Ссылка
------------- | ------------- |------|---
-Верона | мягкий, с лёгким послевкусием | ★★★★★ | <a href="{{ site.url }}/tasty-coffee-verona/?erid=LatgBkMrh">Купить</a>
-Бразилия Можиана | приятный вкус, крепковатый, доступная цена | ★★★★★ | <a href="{{ site.url }}/tasty-coffee-mogiana/?erid=LatgBkMrh">Купить</a>
-Гурме | мягкий и ароматный | ★★★★✩ | <a href="{{ site.url }}/tasty-coffee-gourmet/?erid=LatgBkMrh">Купить</a>
+| Сорт             | Особенности                                | Рейтинг | Ссылка                                                                   |
+|------------------|--------------------------------------------|---------|--------------------------------------------------------------------------|
+| Верона           | мягкий, с лёгким послевкусием              | ★★★★★   | <a href="{{ site.url }}/tasty-coffee-verona/?erid=LatgBkMrh">Купить</a>  |
+| Бразилия Можиана | приятный вкус, крепковатый, доступная цена | ★★★★★   | <a href="{{ site.url }}/tasty-coffee-mogiana/?erid=LatgBkMrh">Купить</a> |
+| Гурме            | мягкий и ароматный                         | ★★★★✩   | <a href="{{ site.url }}/tasty-coffee-gourmet/?erid=LatgBkMrh">Купить</a> |
 
 #### Свежесть
 
@@ -49,21 +49,16 @@ last_modified_at: 2023-08-26
 
 ### Отзыв о Тейсти кофе Верона
 
+![Упаковка Верона 250 г.](/images/tasty-coffee-verona-package.jpg)
+
 Кофе отлично подходит для любителей кофе с молоком. Кислинка минимальная.
-<div style="max-height: 533px;max-width:400px">
-{% slider  bullets captions %}
-  ![Упаковка Верона 250 г.](/images/tasty-coffee-verona-package.jpg)
-  ![Зёрна Верона](/images/tasty-coffee-verona-beans.jpg)
-  ![Молотый кофе Верона](/images/tasty-coffee-verona-ground-coffee.jpg)
-  ![Эспрессо из зёрен Верона](/images/tasty-coffee-verona-espresso.jpg)
-  ![Кофе кортадо из зёрен Верона](/images/tasty-coffee-verona-cortado.jpg)
-{% endslider %}
-</div>
 
 Особенности:
 
 - средняя оценка — 4,6,
 - очень приятное послевкусие.
+
+  ![Зёрна Верона](/images/tasty-coffee-verona-beans.jpg)
 
 
 ```
@@ -73,12 +68,17 @@ last_modified_at: 2023-08-26
 – география происхождения зёрен: Бразилия, Колумбия и Гватемала,
 – тёмная обжарка.
 ```
+![Молотый кофе Верона](/images/tasty-coffee-verona-ground-coffee.jpg)
 
 Варианты упаковки: 250г, 1 килограмм.
 
 Что нам больше всего нравится: мягкий вкус, приятное послевкусие.
 
 **<a href="{{ site.url }}/tasty-coffee-verona/?erid=LatgBkMrh">Узнать цену</a>**.
+
+![Эспрессо из зёрен Верона](/images/tasty-coffee-verona-espresso.jpg)
+![Кофе кортадо из зёрен Верона](/images/tasty-coffee-verona-cortado.jpg)
+
 
 ### Tasty Coffee Бразилия Можиана
 
