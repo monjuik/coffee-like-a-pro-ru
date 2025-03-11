@@ -17,8 +17,6 @@ exclude:
   - CNAME
 theme: jekyll-theme-cayman
 
-# google_analytics: UA-129728403-1
-
 url: https://coffee-like-a-pro.ru
 
 permalink: /:categories/:title.html
